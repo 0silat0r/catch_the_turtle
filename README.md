@@ -4,5 +4,5 @@
 Aşağıdaki komutları kullanmanız yeterli olacaktır:<br/>
 <code>chmod 777 install.sh</code><br/>
 <code>bash install.sh</code><br/>
-<code>python3 game.py</code><br/>
+<code>python3 oyun.py</code><br/>
 Teşekkürler!
